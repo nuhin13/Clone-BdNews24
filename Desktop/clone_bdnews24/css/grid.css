@@ -1,0 +1,732 @@
+/* grid.css */
+div.x620x300-config div#main {
+	float: left;
+	margin: 0 0px 0 0;
+	padding: 0 8px 0 0;
+	width: 640px;
+}
+div.x620x300-config div#right {
+	float: left;
+	width: 320px;
+	margin: 0;
+	margin-left:10px;
+	padding-top: 15px;
+	
+}
+div.x140x460x300-extended-config div#top {
+	clear: both;
+}
+div.x140x460x300-extended-config div#left {
+	float: left;
+	margin: 0 0 10px;
+	padding: 0;
+	width: 140px;
+}
+div.x140x460x300-extended-config div#main {
+	float: left;
+	margin: 0 10px 10px;
+	padding: 0 9px;
+	width: 460px;
+}
+div.x140x460x300-extended-config div#right {
+	float: left;
+	width: 300px;
+	margin: 0 0 10px;
+	clear: right;
+}
+div.x140x460x300-extended-config div#bottom {
+	margin: 10px 0 0;
+	padding-top: 10px;
+	clear: both;
+}
+/* x140x140 */
+div.x140x140 {
+	clear: both;
+	width: 300px;
+	margin: 0;
+}
+div.x140x140 div.column-1 {
+	float: left;
+	width: 140px;
+	margin: 0 20px 0 0;
+}
+div.x140x140 div.column-2 {
+	float: left;
+	width: 140px;
+	margin: 0;
+}
+/* x700x220 */
+div.x700x220 {
+	clear: both;
+	width: 940px;
+	margin: 0;
+}
+div.x700x220 div.column-1 {
+	float: left;
+	width: 700px;
+	margin: 0 20px 0 0;
+	
+}
+div.x700x220 div.column-2 {
+	float: left;
+	width: 220px;
+	margin: 0;
+}
+/* x700x280 */
+div.x700x280 {
+	clear: both;
+	width: 980px;
+	margin: 0;
+}
+div.x700x280 div.column-1 {
+	float: left;
+	width: 700px;/* margin: 0 20px 0 0;*/
+	overflow:visible;
+}
+div.x700x280 div.column-2 {
+	float: right;
+	width: 280px;
+	margin: 0;
+}
+/* x620x300 */
+div.x620x300 {
+	clear: both;
+	width: 940px;
+	margin: 0;
+}
+div.x620x300 div.column-1 {
+	float: left;
+	width: 620px;
+	margin: 0 20px 0 0;
+}
+div.x620x300 div.column-2 {
+	float: left;
+	width: 300px;
+	margin: 0;
+	font-size: 0.9em;
+}
+/* x460x460 */
+div.x460x460 {
+	clear: both;
+	width: 940px;
+	margin: 0;
+}
+div.x460x460 div.column-1 {
+	float: left;
+	width: 460px;
+	margin: 0 20px 0 0;
+}
+div.x460x460 div.column-2 {
+	float: left;
+	width: 460px;
+	margin: 0;
+}
+/* x380x300x220 */
+
+div.x380x300x220 {
+	clear: both;
+	width: 940px;
+	margin: 0;
+}
+div.x380x300x220 div.column-1 {
+	float: left;
+	width: 380px;
+	margin: 0 20px 0 0;
+}
+div.x380x300x220 div.column-2 {
+	float: left;
+	width: 300px;
+	margin: 0 20px 0 0;
+}
+div.x380x300x220 div.column-3 {
+	float: left;
+	width: 220px;
+	margin: 0;
+}
+/* x380x300 */
+
+div.x380x300 {
+	clear: both;
+	width: 700px;
+	margin: 0;
+}
+div.x380x300 div.column-1 {
+	float: left;
+	width: 380px;
+	margin: 0 20px 0 0;
+}
+div.x380x300 div.column-2 {
+	float: left;
+	width: 300px;
+	margin: 0;
+}
+/* x220x220x220 */
+
+div.x220x220x220 {
+	clear: both;
+	width: 700px;
+	margin: 0;
+}
+div.x220x220x220 div.column-1,  div.x220x220x220 div.column-2 {
+	float: left;
+	width: 220px;
+	margin: 0 20px 0 0;
+}
+div.x220x220x220 div.column-3 {
+	float: left;
+	width: 220px;
+	margin: 0;
+}
+/* x220x220x220x220 */
+
+div.x220x220x220x220 {
+	clear: both;
+	width: 940px;
+	margin: 0;
+}
+div.x220x220x220x220 div.column-1,  div.x220x220x220x220 div.column-2,  div.x220x220x220x220 div.column-3 {
+	float: left;
+	width: 220px;
+	margin: 0 20px 0 0;
+}
+div.x220x220x220x220 div.column-4 {
+	float: left;
+	width: 220px;
+	margin: 0;
+}
+/* x140x140x140x140 css styles */
+div.x140x140x140x140 {
+	clear: both;
+	width: 620px;
+	margin: 0;
+}
+div.x340x230x240x170 {
+	/*margin: 10px 0;*/
+	margin: 10px 0;
+	margin-bottom: 10px;
+}
+div.x340x230x240x170 .column-container-1 {
+	float: left;
+	width: 570px;
+}
+div.x340x230x240x170 .column-container-2 {
+	float: left;
+	width: 410px;
+}
+div.x340x230x240x170 div.column-1 {
+	float: left;
+	width: 320px;
+	margin-right: 20px;
+}
+.x340x230x240x170 h1 {
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: bold;
+	padding: 5px 0;
+}
+div.x340x230x240x170 div.column-2 {
+	float: left;
+	width: 210px;
+	margin-right: 20px;
+}
+div.x340x230x240x170 div.column-3 {
+	float: left;
+	width: 220px;
+	margin-right: 20px;
+}
+div.x340x230x240x170 div.column-4 {
+	float: left;
+	width: 170px;
+}
+div.x140x140x140x140 div.column-1,  div.x140x140x140x140 div.column-2,  div.x140x140x140x140 div.column-3 {
+	float: left;
+	width: 140px;
+	margin: 0 20px 0 0;
+}
+div.x140x140x140x140 div.column-4 {
+	float: left;
+	width: 140px;
+	margin: 0;
+}
+
+/* six cloumn grid - made by arup */
+div.x140x140x140x140x140x140 {
+	clear: both;
+	width: 960px;
+	margin: 0;
+}
+div.x140x140x140x140x140x140 div.column-1 {
+        float: left;
+        width: 140px;
+        margin: 0 20px 0 0;
+}
+div.x140x140x140x140x140x140 div.column-2 {
+        float: left;
+        width: 140px;
+        margin: 0 20px 0 0;
+}
+div.x140x140x140x140x140x140 div.column-3 {
+        float: left;
+        width: 140px;
+        margin: 0 20px 0 0;
+}
+div.x140x140x140x140x140x140 div.column-4 {
+        float: left;
+        width: 140px;
+        margin: 0 20px 0 0;
+}
+div.x140x140x140x140x140x140 div.column-5 {
+        float: left;
+        width: 140px;
+        margin: 0 20px 0 0;
+}
+div.x140x140x140x140x140x140 div.column-6 {
+        float: left;
+        width: 140px;
+        margin: 0;
+}
+
+
+
+/* x300x300 css styles */
+div.x300x300 {
+	clear: both;
+	width: 620px;
+	margin: 0;
+}
+div.x300x300 div.column-1 {
+	float: left;
+	width: 300px;
+	margin: 0 20px 0 0;
+	overflow: hidden;
+}
+div.x300x300 div.column-2 {
+	float: left;
+	width: 300px;
+	margin: 0;
+	overflow: hidden;
+}
+/* x380x220 */
+
+div.x380x220 {
+	clear: both;
+	width: 620px;
+	margin: 0;
+}
+div.x380x220 div.column-1 {
+	float: left;
+	width: 380px;
+	margin: 0 20px 0 0;
+}
+div.x380x220 div.column-2 {
+	float: left;
+	width: 220px;
+	margin: 0;
+}
+/* x220x220x140 */
+
+div.x220x220x140 {
+	clear: both;
+	width: 620px;
+	margin: 0;
+}
+div.x220x220x140 div.column-1, div.x220x220x140 div.column-2 {
+	float: left;
+	width: 220px;
+	margin: 0 20px 0 0;
+}
+div.x220x220x140 div.column-3 {
+	float: left;
+	width: 140px;
+	margin: 0;
+}
+/* x300x140x140 */
+div.x300x140x140 {
+	clear: both;
+	width: 620px;
+	margin: 0;
+}
+div.x300x140x140 div.column-1 {
+	float: left;
+	width: 300px;
+	margin: 0 20px 0 0;
+}
+div.x300x140x140 div.column-2 {
+	float: left;
+	width: 140px;
+	margin: 0 20px 0 0;
+}
+div.x300x140x140 div.column-3 {
+	float: left;
+	width: 140px;
+	margin: 0;
+}
+/* x460x140 */
+
+div.x460x140 {
+	clear: both;
+	width: 620px;
+	margin: 0;
+}
+div.x460x140 div.column-1 {
+	float: left;
+	width: 460px;
+	margin: 0 20px 0 0;
+}
+div.x460x140 div.column-2 {
+	float: left;
+	width: 140px;
+	margin: 0;
+}
+/* x300x140 */
+div.x300x140 {
+	clear: both;
+	width: 460px;
+	margin: 0;
+}
+div.x300x140 div.column-1 {
+	width: 300px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+div.x300x140 div.column-2 {
+	width: 140px;
+	float: left;
+	margin: 0;
+}
+/* x220x220 */
+div.x220x220 {
+	clear: both;
+	width: 460px;
+	margin: 0;
+}
+div.x220x220 div.column-1 {
+	width: 220px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+div.x220x220 div.column-2 {
+	width: 220px;
+	float: left;
+	margin: 0;
+}
+/* x140x140x140 */
+div.x140x140x140 {
+	width: 460px;
+	clear: both;
+	margin: 0;
+}
+div.x140x140x140 div.column-1 {
+	width: 140px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+div.x140x140x140 div.column-2 {
+	width: 140px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+div.x140x140x140 div.column-3 {
+	width: 140px;
+	float: left;
+	margin: 0;
+}
+/* x300x300x300 css styles */
+div.x300x300x300 .column-1, div.x300x300x300 .column-2, div.x300x300x300 .column-3 {
+	width: 300px;
+	float: left;
+}
+div.x300x300x300 .column-1 {
+	margin: 10px 7px 10px 7px;
+}
+div.x300x300x300 .column-2 {
+	margin: 10px 6px 10px 6px;
+}
+div.x300x300x300 .column-3 {
+	margin: 10px 7px 10px 7px;
+}
+/* WRAPPED */
+div.floatingContent-right {
+	float: right;
+	margin: 0 0 0 15px;
+	padding: 0;
+	overflow: hidden;
+	clear: both;
+}
+div.floatingContent-left {
+	float: left;
+	margin: 0 15px 0 0;
+	padding: 0;
+	overflow: hidden;
+	clear: both;
+}
+div.wrappingContent, div.wrappingContent * {
+	overflow: visible;
+	line-height: 1.4;
+	color: #444;
+}
+
+.wrappingContent{
+	 /*margin-left: 10px; edited by bdnews */
+}
+
+
+
+
+
+
+
+
+
+/* edited by bdnews */
+
+div.x640x340 {
+	border-top: 4px solid #ebebec;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	/*margin-bottom: 3px;*/
+}
+div.x640x340 div.column-1 {
+	width: 640px;
+	float: left;
+	overflow: hidden;
+	;
+}
+div.x640x340 div.column-2 {
+	width: 320px;
+	margin-left: 10px;
+	float: right;
+}
+
+
+/* new added for x165x165x165 for two column config in x620x300 group */
+
+
+div.x165x165x165 {
+        clear: both;
+        width: 620px;
+        margin: 0;
+}
+div.x165x165x165 div.column-1 {
+        float: left;
+        width: 175px;
+        margin: 0 20px 0 0;
+        overflow: hidden;
+}
+div.x165x165x165 div.column-2 {
+        float: left;
+        width: 175px;
+        margin: 0 20px 0 0;
+        overflow: hidden;
+}
+div.x165x165x165 div.column-3 {
+        float: left;
+        width: 175px;
+        margin: 0;
+        overflow: hidden;
+}
+
+
+
+/* new added for x165x165x165 for single column config in x640x320 group (640 area) */
+
+div.x640x340 div.x165x165x165 {
+width:640px;
+clear:both;
+}
+
+div.x640x340 div.column-1 div.x165x165x165 div.column-1 {
+        width:175px;
+        float:left;
+        padding-right:15px;
+        margin-right:15px;
+          }
+div.x640x340 div.column-1 div.x165x165x165 div.column-2 {
+        width:175px;
+        float:left; 
+        padding-right:15px;
+        margin-right:15px;
+          }
+div.x640x340 div.column-1 div.x165x165x165 div.column-3 {
+        width:175px;
+        padding-right:15px;
+        margin-right:15px;
+          }
+
+/* new added for x150x150 for single column config in x640x320 group (340 area) */
+
+
+div.x640x340 div.column-2 div.x150x150 div.column-1 {
+         width:150px;
+         padding-left:1px;
+         padding-right:1px;
+         padding-top:5px;
+         padding-bottom:8px;
+                  }
+div.x640x340 div.column-2 div.x150x150 div.column-2 {
+         width:150px;
+         padding-left:1px;
+         padding-right:1px;
+         padding-top:5px;
+         padding-bottom:8px;
+                  }
+
+
+
+
+div.x580x400 {
+	border-top: 4px solid #ebebec;
+	padding-top: 15px;
+}
+div.x580x400 div.column-1 {
+	float: left;
+	width: 540px;
+	margin-right: 40px;
+}
+div.x580x400 div.column-2 {
+	float: left;
+	width: 400px;
+}
+div.x580x400 div.column-2 {
+	float: left;
+	width: 400px;
+}
+
+div.x400x240 {
+	
+}
+div.x400x240 div.column-1 {
+	width: 380px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+div.x400x240 div.column-2 {
+	width: 240px;
+	float: left;
+	margin-left: 0px;
+}
+
+div.x350x350 {
+	clear:both;
+	width : 700px;
+}
+div.x350x350 div.column-1 {
+	clear : both;
+	width: 330px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+div.x350x350 div.column-2 {
+	width: 340px;
+	float: left;
+	margin-left: 10px;
+}
+
+
+div.x380x260 {
+	width: 640px;
+    float: left;
+    overflow: hidden;
+    padding-top: 0px;
+	
+}
+div.x280x360 div.column-1 {
+	
+	width: 260px;
+    float: left;
+	margin-right:20px;
+}
+div.x280x360 div.column-2 {
+	width: 360px;
+    float: right;
+	
+}
+
+div.x410x230 {
+	/*background: transparent url("../gfx/bdnewsImg/border-dot.png") repeat-y 429px 0;*/
+}
+div.x410x230 div.column-1 {
+	width: 410px;
+	padding-right: 0px;/* border-right: 1px solid #c0c0c1; */
+
+}
+div.x410x230 div.column-2 {
+	padding-left: 10px;
+	width:210px;
+	margin-left:10px;
+}
+
+div.x420x220 {
+	width: 640px;
+    float: left;
+    overflow: hidden;
+    padding-top: 0px;
+	margin-top : 15px;
+}
+div.x420x220 div.column-1 {
+	width: 400px;
+    float: left;
+    margin-right: 20px;
+
+}
+div.x420x220 div.column-2 {
+	width: 220px;
+    float: left;
+}
+
+div.x260x150 {
+	border-bottom: 1px solid #ebebec;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+div.x260x150 div.column-1 {
+	float: left;
+	margin: 0 20px 0 0;
+	width: 240px;
+	padding-right: 0px;
+}
+div.x260x150 div.column-2 {
+	float: left;
+	width: 150px;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+/* new added for 970x100 */
+
+div.x970x100 {
+       clear: both;
+        width: 980px;
+        margin: 0;
+}
+div.x970x100 div.column-1 {
+        float: left;
+        width: 185px;
+        margin: 0 10px 0 0;
+        overflow: hidden;
+}
+div.x970x100 div.column-2 {
+        float: left;
+        width: 185px;
+        margin: 0 10px 0 0;
+        overflow: hidden;
+}
+div.x970x100 div.column-3 {
+        float: left;
+        width: 185px;
+        margin: 0 10px 0 0;
+        overflow: hidden;
+}
+div.x970x100 div.column-4 {
+        float: left;
+        width: 185px;
+        margin: 0 10px 0 0;
+        overflow: hidden;
+}
+div.x970x100 div.column-5 {
+        float: left;
+        width: 185px;
+        margin: 0;
+        overflow: hidden;
+}
+

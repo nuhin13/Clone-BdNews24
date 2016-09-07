@@ -1,0 +1,41 @@
+.rubrikk-container{
+border-bottom: 4px solid #EBEBEC;
+margin: -10px 0 20px;
+padding: 0px 0 10px 0;
+}
+#rubrikk-popularsearches ul {
+float:left;
+}
+#rubrikk-popularsearches ul  a{
+color: #202D52;
+text-decoration:none;
+}
+#rubrikk-popularsearches ul  a:hover{
+color:#DC1111;
+text-decoration:none;
+}
+#rubrikk-popularsearches .rubrikk-head {
+background: none repeat scroll 0 0 #222B46;
+border-bottom: 1px solid #EBEBEC;
+color: #FFFFFF;
+font-family: "Segoe UI";
+font-size: 14px;
+padding: 4px;
+vertical-align: baseline;
+line-height: 1em;
+font-family:Segoe UI;
+font-weight:600;
+} 
+#rubrikk-popularsearches .rubrikk-head  a, #rubrikk-popularsearches .rubrikk-head a:active, #rubrikk-popularsearches .rubrikk-head a:visited{
+background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+color: #FFFFFF !important; 
+margin: 0;
+padding: 0;
+text-decoration: none !important; 
+vertical-align: baseline;
+text-decoration:none;
+font-family: Segoe UI;
+font-size: 14px !important; 
+font-weight: 600 !important; 
+padding: 4px;
+}

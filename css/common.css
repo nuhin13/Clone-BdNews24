@@ -1,0 +1,199 @@
+/**
+ ** All the common css styles (common for all skins) should be defined here
+ **
+ **/
+
+#video-widget-article-related-videos p.caption {
+    color: #666666;
+    display: block;
+    font-family: solaimanLipi;
+    font-size: 13px;
+    line-height: 1em;
+    opacity: 0.8;
+    text-align: left;
+    width: 600px;
+}
+
+div.comments.disqus {
+  padding-top: 10px;
+}
+
+.profileActions.loginPopUp {
+  width: 450px;
+}
+
+.profileActions h1 {
+  font-family: Helvetica,serif;
+  font-size: 28px;
+  font-weight: 700;
+  padding: 5px 0;
+  margin: 10px 0 0;
+}
+
+.profileActions .links {
+  font-family: Arial,Verdana,Helvetica,sans-serif !important;
+  font-size: 14px;
+  line-height: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+.profileActions form.SSOLogin {
+  margin-top: 10px;
+}
+
+.profileActions form.SSOLogin input {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+div.profileActions form.login fieldset dl dt,
+div.profileActions form.loginPopup fieldset dl dt,
+div.profileActions form.resetPassword fieldset dl dt {
+  text-align: left;
+  font-size: 15px;
+  width: 80px;
+  font-family: arial,sans-serif;
+}
+
+div.profileActions form input.button {
+  margin-top: 5px;
+}
+
+div.profileActions form.login input.checkbox {
+  margin: 0 10px 0 0;
+  position: relative;
+  top: 0px;
+}
+
+div.profileActions form.registration fieldset dl dt,
+div.profileActions form.editProfile fieldset dl dt,
+div.profile .fields dl dt {
+  width: 80px;
+  font-size: 15px;
+  width: 80px;
+  font-family: arial,sans-serif;
+}
+
+
+div.profileActions form.registration fieldset input.button,
+div.profileActions form.editProfile fieldset input.button {
+  margin: 20px 67px 0 0;
+}
+
+div.profileMenu {
+  font-size: 13px;
+  font-weight: 700;
+  font-family: Helvetica,arial,serif;
+  margin: 30px 5px 5px 0;
+}
+
+div.profileMenu ul li {
+  float: left;
+  border-left: 2px solid #AAAAAA;
+  margin-left: 10px;
+  padding-left: 12px;
+}
+
+div.profileMenu a {
+  color: #304345;
+  text-decoration: underline;
+}
+
+div.profileMenu a:hover {
+  color: #DC1111;
+}
+
+div.profile div.links ul li,
+div.profileActions div.links ul li {
+  border-left: 2px solid #AAAAAA;
+  margin-left: 10px;
+  padding-left: 12px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+div.profile div.links ul li a,
+div.profileActions div.links ul li a {
+  color: #304345 !important;
+  text-decoration: underline;
+}
+
+div.profile div.links ul li a:hover,
+div.profileActions div.links ul li a:hover {
+  color: #DC1111 !important;
+}
+
+div.profile .fields dl {
+  clear: both;
+  margin: 0 0 15px;
+  overflow: hidden;
+  padding: 0;
+}
+
+div.profile .fields dl dt {
+  letter-spacing: 0;
+  margin: 3px 25px 0 2px;
+  padding: 0;
+  text-align: right;
+}
+
+
+div.profile .fields dl dd {
+  font-family: Arial,Verdana,serif;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0;
+  margin: 3px 0 0 0;
+  padding: 0;
+  text-align: left;
+}
+
+div.profile .profileHeader {
+ margin-bottom: 15px;
+}
+
+div.profile .profileHeader .profilePicture {
+  float: left;
+  margin: 15px 10px 10px 10px;
+}
+
+div.profile .profileHeader h1 {
+  font-family: Helvetica,serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 25px 0 5px;
+  padding: 0;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+div.profile .profileHeader h3 {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+div.profileActions.uploadProfilePicture {
+  width: 450px;
+}
+
+div.profileActions.uploadProfilePicture  h1 {
+  margin-bottom: 10px;
+}
+
+div.pictureUploadForm {
+  padding-left: 20px;
+}
+
+div.pictureUploadForm form{
+  margin: 0;
+}
+
+div.pictureUploadForm .fileUploaderMessage {
+  padding-top: 10px;
+}
+
+div.pictureUploadForm .bottom {
+  padding-top: 5px;
+}

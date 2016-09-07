@@ -1,0 +1,46 @@
+.classes-and-labs, .class-tests, .assignments, .alerts, .messages,.overall-course-progress {
+	min-height: 200px;
+	border:solid;
+	border-color:#222;
+	background-color: #67a;
+}
+.rect-header
+{
+
+	font-size: 18pt;
+	background-color: #f00;
+	transition:background-color .5s ease;
+}
+.alerts,.messages,.overall-course-progress{
+	margin-top: 5px;
+
+}
+
+.rect-profile{
+	min-height:200px;
+    width: 250px;
+    padding-left: 80px;
+    padding-top: 100px;
+	border: solid;
+	background-color:#00f;
+
+}
+
+.rect-profile:hover{
+	color:#f00;
+  background-color: #444;
+  transition:background-color .5s ease;
+
+}
+.classes-and-labs:hover .rect-header, .class-tests:hover .rect-header, .assignments:hover .rect-header, .alerts:hover .rect-header, .messages:hover .rect-header,.overall-course-progress:hover .rect-header{
+	background-color: #00f;
+	color: #fff;
+}
+ul>li>a{
+
+	color:#000;
+	transition:margin-left .5s ease;
+}
+ul>li:hover a{
+	margin-left: 5px;
+}
